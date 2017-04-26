@@ -1,2 +1,2 @@
-#webdesign
-	HTML file containing lesson application on lists .
+WEB DESIGN
+HTML file containing lesson application on lists and entities.
